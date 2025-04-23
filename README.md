@@ -9,7 +9,7 @@
 - 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
 - 🔥 Currently focusing on **Python, Flask, Django, Pandas, Matplotlib, Scikit-learn, MNIST, CNN, Seaborn, BeautifulSoup, Selenium, FastAPI, and Streamlit**
 - ⚙️ Improving my **Neovim setup** for development. I love using Neovim.
-- 🌍 Aspiring to pursue a **Master's degree in the EU** and work in **AI/ML**
+- 🌍 Aspiring to pursue a **Master's degree in the Japan** and work in **AI/ML**
 - 💡 Love exploring **automation, programming contests, and innovative problem-solving**
 
 ---
